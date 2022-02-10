@@ -1,12 +1,12 @@
 @import url(reset.css);
-@import url(fonts.css);
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 :root {
   --main-background: #131212;
   --main-blue: #026cf9;
   --work-title: #443933;
   --font-color: #fff;
-  --main-font: "BebasNeue-Regular";
+  --main-font: 'Bebas Neue';
   --sub-font: "Poppins";
   --menu-background: #f2f3f4;
 }

@@ -1,0 +1,15 @@
+
+@font-face {
+    font-family: 'BebasNeue-Regular';
+    font-style: normal;
+    src: url(/fonts/BebasNeue-Regular.ttf);
+  }
+
+
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    src: url(/fonts/Poppins-Medium.ttf);
+    src: url(/fonts/Poppins-Regular.ttf);
+  }

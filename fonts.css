@@ -1,15 +1,17 @@
 
 @font-face {
-    font-family: 'BebasNeue-Regular';
+    font-family: 'Bebas Neue';
     font-style: normal;
-    src: url(/fonts/BebasNeue-Regular.ttf);
+    /* src: url(/fonts/BebasNeue-Regular.ttf); */
+    src: url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
   }
 
 
-
+/* 
 @font-face {
     font-family: 'Poppins';
     font-style: normal;
     src: url(/fonts/Poppins-Medium.ttf);
     src: url(/fonts/Poppins-Regular.ttf);
-  }
+  } */
